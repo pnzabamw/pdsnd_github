@@ -7,8 +7,11 @@
 bikeshare 
 
 ### Description
-Bikeshare project enables users to order the date, city in a certain month
+Bikeshare project enables users to order the date, city in a certain month.
 ### Files used
+chicago.csv,washington.csv, ney york.csv
+### day accessed
+saturday
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
