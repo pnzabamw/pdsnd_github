@@ -14,5 +14,5 @@ chicago.csv,washington.csv, ney york.csv
 saturday
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+so far there are no credits yet i would say
 
