@@ -9,7 +9,7 @@ i>**Note**: Please **fork** the current Udacity repository so that you will have
 Explore US bikeshare data
 
 ### Description
-This project allows the  user to explore some US bikeshare data from washington, New York and chicago cities.
+This project allows the  user to explore some US bikeshare data from washington, New York and chicago cities for different months of the year.
 
 
 ### Files used
